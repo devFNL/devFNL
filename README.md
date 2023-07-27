@@ -5,8 +5,8 @@ I'm thrilled to apply my knowledge in real-world projects and embark on an excit
 I'm also eager to leverage my soft skills while collaborating with a dynamic team, learning from others, and fostering a collaborative environment.
 
 
-˪ <a href="https://www.linkedin.com/in/federico-lindberg">MyLinkedIN</a> 
-</br>
+
+
 ˪ fedelindberg@gmail.com
 <!---
 devFNL/devFNL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
