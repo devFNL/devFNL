@@ -1,5 +1,5 @@
 Hello there! 
-I'm on my way to becoming a Full Stack Developer, with a solid foundation in Java, JPA, Spring, MySQL, HTML, CSS, and some JavaScript knowledge. 
+I'm on my way to becoming a Full Stack Developer, with a solid foundation in Java, Spring, MySQL, HTML, CSS, and some JavaScript knowledge. 
 Currently, i'm diving deeper into JavaScript, React, and Node.js to enhance my skills. 
 I'm thrilled to apply my knowledge in real-world projects and embark on an exciting journey in the professional landscape. 
 I'm also eager to leverage my soft skills while collaborating with a dynamic team, learning from others, and fostering a collaborative environment.
