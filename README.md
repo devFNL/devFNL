@@ -1,13 +1,15 @@
 # Hello there! :wave:
-I'm on my way to becoming a Full Stack Developer, with a knowledge in Java, Hibernate, MySQL, HTML, CSS, and JavaScript. </br>
-Currently, i'm diving deeper into React, TypeScript and Spring.
-I'm thrilled to apply my knowledge in real-world projects and embark on a journey in the professional landscape while collaborating with a dynamic team and learning from others !
+
+I'm a Graphic Designer from Argentina, currently on my journey to become a Full Stack Developer. My actual knowledge includes Java, Hibernate, MySQL, HTML, CSS, and JavaScript. Currently, I'm diving deeper into React, TypeScript, and Spring. </br>
+I'm excited to apply my skills to real-world projects and embark on a fulfilling career. </br>
+Let's join hands to create meaningful projects and keep growing in the world of development! 🚀
+
 
 
 
 :envelope: fedelindberg@gmail.com
 
-## Languages and tools
+## Languages and Dev tools :
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" />
@@ -50,8 +52,8 @@ I'm thrilled to apply my knowledge in real-world projects and embark on a journe
   </a>
 </p>
 
-<!---
-## Design tools
+
+## Design tools :
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" height="30" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" height="30" width="30" />
