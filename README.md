@@ -10,7 +10,7 @@ Let's join hands to create meaningful projects and keep growing in the world of 
 :envelope: fedelindberg@gmail.com
 
 ## Languages and Dev tools :
-<p align="left">
+<p>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" />
   </a>
@@ -54,7 +54,7 @@ Let's join hands to create meaningful projects and keep growing in the world of 
 
 
 ## Design tools :
-<p align="left">
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" height="30" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" height="30" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" height="30" width="30" />
