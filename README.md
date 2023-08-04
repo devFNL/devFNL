@@ -1,7 +1,7 @@
 # Hello there! :wave:
 
 I'm a Graphic Designer from Argentina, currently on my journey to become a Full Stack Developer. My actual knowledge includes Java, Hibernate, MySQL, HTML, CSS, and JavaScript. Currently, I'm diving deeper into React, TypeScript, and Spring. </br>
-I'm excited to apply my skills to real-world projects and embark on a fulfilling career. </br>
+I'm excited to apply my skills to real-world challenges and embark on a fulfilling career. </br>
 Let's join hands to create meaningful projects and keep growing in the world of development! 🚀
 
 
