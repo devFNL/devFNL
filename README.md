@@ -9,7 +9,7 @@ I'm thrilled to apply my knowledge in real-world projects and embark on a journe
 
 ## Languages and tools
 <p align="left">
-  <a href="https://www.java.com/es/" target="_blank">
+  <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" />
   </a>
   <a href="https://spring.io/" target="_blank">
