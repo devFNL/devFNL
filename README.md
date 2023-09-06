@@ -44,6 +44,9 @@ I'm excited to apply my skills to real-world challenges, creating meaningful pro
   <a href="https://es.react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" />
   </a>
+    <a href="https://redux.js.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="30" width="30" />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" />
   </a>
