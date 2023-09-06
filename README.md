@@ -1,10 +1,8 @@
 # Hello there! :wave:
 
-I'm a Graphic Designer from Argentina, currently on my journey to become a Full Stack Developer. My actual knowledge includes Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript and React. Currently, I'm diving deeper into TypeScript. </br>
-I'm excited to apply my skills to real-world challenges and embark on a fulfilling career, creating meaningful projects and keep growing in the world of development! 🚀
+I'm a Graphic Designer from Argentina who has recently completed my studies to become into a Full Stack Developer. My stack includes Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript and React. Currently i'm studying Typescript. </br>
 
-
-
+I'm excited to apply my skills to real-world challenges, creating meaningful projects and keep growing in the world of development! 🚀
 
 :envelope: fedelindberg@gmail.com
 
