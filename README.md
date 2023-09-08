@@ -11,9 +11,6 @@ I'm excited to apply my skills to real-world challenges, creating meaningful pro
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" />
   </a>
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://www.svgrepo.com/show/373829/maven.svg" height="30" width="30" />
-  </a>
   <a href="https://spring.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="30" />
   </a>
