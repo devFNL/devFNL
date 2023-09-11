@@ -12,10 +12,13 @@ I'm excited to apply my skills to real-world challenges, creating meaningful pro
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" />
   </a>
   <a href="https://spring.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="30" />
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" width="30" />
   </a>
   <a href="https://hibernate.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="30" width="30" />
+  </a>
+    <a href="https://www.thymeleaf.org/" target="_blank">
+    <img src="https://velog.velcdn.com/images/devharrypmw/post/e8ccc358-bac2-4df8-9c97-18659a2e0a2a/image.png" height="30" width="30" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" />
