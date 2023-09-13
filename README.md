@@ -1,6 +1,6 @@
 # Hello there! :wave:
 
-I'm a Graphic Designer from Argentina who has recently completed my studies to become into a Full Stack Developer. My stack includes Java, Spring, Hibernate, MySQL, HTML, CSS, JavaScript and React. Currently i'm studying Typescript. </br>
+I'm a Graphic Designer from Argentina who has recently completed my studies to become into a Full Stack Developer. My stack includes Java, MySQL, HTML, CSS, JavaScript and React. Currently i'm studying Typescript. </br>
 
 I'm excited to apply my skills to real-world challenges, creating meaningful projects and keep growing in the world of development! 🚀
 
