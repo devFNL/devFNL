@@ -8,27 +8,6 @@ I'm excited to apply my skills to real-world challenges, creating meaningful pro
 
 ## Languages and Dev tools :
 <p>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" />
-  </a>
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="30" width="30" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" width="30" />
-  </a>
-  <a href="https://www.thymeleaf.org/" target="_blank">
-    <img src="https://velog.velcdn.com/images/devharrypmw/post/e8ccc358-bac2-4df8-9c97-18659a2e0a2a/image.png" height="30" width="30" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" height="30" width="30" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" />
-  </a>
-  <a href="https://strapi.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" height="30" width="30" />
-  </a>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" />
   </a>
@@ -47,22 +26,39 @@ I'm excited to apply my skills to real-world challenges, creating meaningful pro
     <a href="https://redux.js.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="30" width="30" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" width="30" />
+    <a href="https://mui.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" width="30" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="30" />
   </a>
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" width="30" />
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" width="30" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" />
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" width="30" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" height="30" width="30" />
+  </a>
+  <a href="https://www.thymeleaf.org/" target="_blank">
+    <img src="https://velog.velcdn.com/images/devharrypmw/post/e8ccc358-bac2-4df8-9c97-18659a2e0a2a/image.png" height="30" width="30" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" height="30" width="30" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" />
+  </a>
+  <a href="https://strapi.io/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" height="30" width="30" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="30" width="30" />
-  </a>
-
 </p>
 
 
