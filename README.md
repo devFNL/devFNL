@@ -27,10 +27,16 @@ My graph design portfolio <a href="https://federico-lindberg-portfolio-dg.vercel
   <a href="https://es.react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" />
   </a>
-    <a href="https://redux.js.org/" target="_blank">
+  <a href="https://redux.js.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="30" width="30" />
   </a>
-    <a href="https://mui.com/" target="_blank">
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" height="30" width="30" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://dinhanhthi.com/img/header/nextjs.png" height="30" width="30" />
+  </a>
+  <a href="https://mui.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" width="30" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
@@ -56,6 +62,9 @@ My graph design portfolio <a href="https://federico-lindberg-portfolio-dg.vercel
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" />
+  </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="30" width="30" />
   </a>
   <a href="https://strapi.io/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg" height="30" width="30" />
