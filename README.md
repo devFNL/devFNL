@@ -72,6 +72,9 @@ My graph design portfolio <a href="https://federico-lindberg-portfolio-dg.vercel
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" />
   </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://i.ibb.co/b1SgYT8/Mesa-de-trabajo-1.png" height="30" width="30" />
+  </a>
 </p>
 
 
