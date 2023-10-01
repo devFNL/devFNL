@@ -5,7 +5,7 @@ Argentina | Graphic Designer | Full Stack Developer Junior | Java, MySQL, JavaSc
 I'm excited to apply my skills to real-world challenges, creating meaningful projects and keep growing in the world of development! 🚀
 
 My developer portfolio <a href="https://federicolindberg-portfolio.vercel.app" target="_blank">here</a>. </br>
-My graphic design portfolio <a href="https://federico-lindberg-portfolio-dg.vercel.app" target="_blank">here</a>.
+My graphic design portfolio <a href="https://federicolindberg-portfolio-dg.vercel.app" target="_blank">here</a>.
 
 
 :envelope: fedelindberg@gmail.com
