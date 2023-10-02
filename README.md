@@ -30,12 +30,6 @@ My graphic design portfolio <a href="https://federicolindberg-portfolio-dg.verce
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="30" width="30" />
   </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" height="30" width="30" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://dinhanhthi.com/img/header/nextjs.png" height="30" width="30" />
-  </a>
   <a href="https://mui.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" width="30" />
   </a>
