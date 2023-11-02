@@ -12,6 +12,9 @@ My graphic design portfolio <a href="https://federicolindberg-portfolio-dg.verce
 
 ## Languages and Dev tools :
 <p>
+  <a href="https://wordpress.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" height="30" width="30" />
+  </a>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" />
   </a>
