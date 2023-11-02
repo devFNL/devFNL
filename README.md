@@ -1,6 +1,6 @@
 # Hello there! :wave:
 
-Argentina | Graphic Designer | Full Stack Developer Junior | Java, JavaScript, MySQL | Currently on TypeScript & Nodejs </br>
+Argentina | Graphic Designer | Full Stack Developer Junior | Java, JavaScript, MySQL | Currently learning TypeScript & Nodejs </br>
 
 I'm excited to apply my skills to real-world challenges, creating meaningful projects and keep growing in the world of development! 🚀
 
