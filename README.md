@@ -78,8 +78,6 @@ My graphic design portfolio <a href="https://federicolindberg-portfolio-dg.verce
   <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" height="30" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" height="30" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cs6.svg" height="30" width="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" height="30" width="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" height="30" width="30" />
 </p>
 <!---
 devFNL/devFNL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
