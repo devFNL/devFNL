@@ -72,12 +72,14 @@ My graphic design portfolio <a href="https://federicolindberg-portfolio-dg.verce
 </p>
 
 
-## Design tools :
+## UI and Graphic Design tools :
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" height="30" width="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" height="30" width="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/lightroom-cc.svg" height="30" width="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cs6.svg" height="30" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="30" width="30" />
+  <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" height="30" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" height="30" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="30" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-lightroom-cc-icon.svg" height="30" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cc-icon.svg" height="30" width="30" />
 </p>
 <!---
 devFNL/devFNL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
