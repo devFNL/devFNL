@@ -34,10 +34,10 @@ My graphic design portfolio <a href="https://federicolindberg-portfolio-dg.verce
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" width="30" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="30" />
+    <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" height="30" width="30" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" width="30" />
+    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height="30" width="30" />
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" />
