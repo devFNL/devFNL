@@ -8,7 +8,7 @@ My developer portfolio <a href="https://federicolindberg-devportfolio.vercel.app
 My graphic design portfolio <a href="https://federicolindbergportfolio.vercel.app" target="_blank">here</a>.
 
 
-:envelope: fedelindberg@gmail.com
+:envelope: fedelindberg@gmail.com 
 
 ## Languages and Dev tools :
 <p>
