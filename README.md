@@ -1,6 +1,6 @@
 # Hello there! :wave: 
 
-Argentina | Graphic Designer | Full Stack Developer Junior </br> 
+Argentina | Graphic Designer | Full Stack Developer Junior </br>
 
 I'm excited to apply my skills to real-world challenges, creating meaningful projects and keep growing in the world of development! 🚀
 
